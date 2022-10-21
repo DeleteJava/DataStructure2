@@ -1,0 +1,5 @@
+﻿  Day07.c
+  구조체 포인터 문제.c
+  코드를 생성하고 있습니다...
+구조체 포인터 문제.obj : error LNK2005: _main이(가) Day07.obj에 이미 정의되어 있습니다.
+D:\6월 C언어 자료구조 저장소\Day07\Debug\Day07.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
